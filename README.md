@@ -1,4 +1,4 @@
-Hi, My Name is Marlo. I am looking built my Porfolio. I work with SQL Server; I can buit a database, do a dashboard with Power BI. 
+Hi, My Name is Marlo. I am looking built my Portfolio. I work with SQL Server; I can buit a database, do a dashboard with Power BI. 
 
 
 Summary: Junior Database Administrator professional with training in SQL Server (2 years), design, building databases and recovery. 
